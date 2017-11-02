@@ -16,7 +16,7 @@
 
 var AssistStorageEntry = (function () {
 
-  var PAGE_SIZE = 100;
+  var PAGE_SIZE = 1000;
 
   var TYPE_SPECIFICS = {
     'adls': {
