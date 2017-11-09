@@ -1,4 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/cloudera/hue/master/docs/images/hue_logo.png "Hue Logo")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fenricoberti%2Fhue.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fenricoberti%2Fhue?ref=badge_shield)
 
 
 Query. Explore. Repeat.
@@ -103,3 +104,7 @@ License
 -----------
 Apache License, Version 2.0
 http://www.apache.org/licenses/LICENSE-2.0
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fenricoberti%2Fhue.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fenricoberti%2Fhue?ref=badge_large)
